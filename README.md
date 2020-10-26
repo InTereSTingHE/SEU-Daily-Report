@@ -27,7 +27,7 @@ $ pip3 install -r requirements.txt
 $ python3 dailyReport.py 一卡通号 密码
 ```
 ### 4. 其他注意事项
-#### 1.报错"Could not find an available JavaScript runtime"的解决方法：
+#### 报错"Could not find an available JavaScript runtime"的解决方法：
 ```
 $ sudo apt install nodejs
 ```
