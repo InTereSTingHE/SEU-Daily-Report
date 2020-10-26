@@ -8,23 +8,28 @@
 
 ## 2. 使用方法
 
-1. clone该项目
+### 1. clone该项目
 
 ```
 $ git clone https://github.com/ruizhi11/SEU-Daily-Report.git
 $ cd SEU-Daily-Report
 ```
 
-2. 安装依赖
+### 2. 安装依赖
 
 ```
 $ pip3 install -r requirements.txt
 ```
 
-3. 运行脚本
+### 3. 运行脚本
 
 ```
 $ python3 dailyReport.py 一卡通号 密码
+```
+### 4. 其他注意事项
+#### 1.报错"Could not find an available JavaScript runtime"的解决方法：
+```
+$ sudo apt install nodejs
 ```
 
 ## 3. LICENSE
